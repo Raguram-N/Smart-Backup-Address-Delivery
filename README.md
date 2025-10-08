@@ -76,6 +76,15 @@ A **secondary recipient system** could reduce failed deliveries by **30–40%**,
 
 ## 💡 Proposed Solution: Secondary / Nearby Address Feature  
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="2.png" width="115%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ### 1. Pre-Order Setup  
 - Customer selects **primary delivery address**.  
 - Option to add **secondary addresses** (trusted friend, relative, or neighbor).  
@@ -94,6 +103,10 @@ A **secondary recipient system** could reduce failed deliveries by **30–40%**,
 | Radius Limitation | Prevents misuse and ensures delivery is nearby |
 | Notifications | Keeps both recipients informed in real-time |
 | Reduced Failed Deliveries | Minimizes operational cost and increases customer satisfaction |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,6 +132,8 @@ A **secondary recipient system** could reduce failed deliveries by **30–40%**,
 ## 🎯 Conclusion
 
 **Ensure your package is delivered even when you’re away.**  
+
+---
 
 **🔑 Takeaway:**  
 A small UX enhancement can prevent failed deliveries and save millions in operational costs annually.  
