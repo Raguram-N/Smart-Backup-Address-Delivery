@@ -22,6 +22,14 @@ We propose a **Secondary / Nearby Address Delivery** system – allowing custome
 
 ## ✨ The Story – The Spark
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 Picture this:  
 
 A customer ordered a product on Amazon and set their home address for delivery. Unfortunately, due to an emergency, they had to leave the house before the delivery arrived.  
@@ -32,6 +40,9 @@ When the delivery person arrived:
 - The customer had to **reschedule** the delivery, causing frustration, delay, and extra operational cost.  
 
 This scenario highlighted a **critical gap** in current e-commerce delivery systems: **lack of backup options for trusted recipients**.  
+</td>
+</tr>
+</table>
 
 ---
 
