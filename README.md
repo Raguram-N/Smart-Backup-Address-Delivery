@@ -1,5 +1,5 @@
 # 📑 Case Study
-# Smart-Backup-Address-Delivery
+# Smart Backup Address - For Delivery
 Enhancing Customer Experience & Reducing Failed Deliveries in E-commerce Platforms  
 
 ![Case Study Badge](https://img.shields.io/badge/CaseStudy-UX-blue) ![Feature Badge](https://img.shields.io/badge/Feature-SecondaryAddress-green)  
