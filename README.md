@@ -111,7 +111,7 @@ A **secondary recipient system** could reduce failed deliveries by **30–40%**,
 ---
 
 ## Demo:
-> - **Sample Prototype** [Smart-Backup-Address-Delivery](https://github.com/Raguram-N/AI_Manual_Tester/blob/main/README.md)
+> - **Sample Prototype** [Smart-Backup-Address-Delivery](https://raguram-n.github.io/Smart-Backup-Address-Delivery/)
 
 ## 🚀 Expected Outcomes
 
